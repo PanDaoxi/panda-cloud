@@ -5,7 +5,7 @@ Hello, user! Welcome to "Panda Cloud"! In this file, you can know the following 
 (3) About developers.
 If you want to use this software, please read the following instructions in detail.
 
-Project address: [Click here to the project.](https://pandaoxi.github.io/panda-cloud/)
+Project address: [Click here to the project.](https://github.com/PanDaoxi/panda-cloud)
 
 # Operation Requirements of the Program
 This program is divided into client and server. The server needs to run on a host, **and the client can access it only after joining the LAN where the server is located**.
