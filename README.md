@@ -128,3 +128,4 @@ Panda Cloud v1.2 (2022-4-5): **(1) Modify the bug of client file download (2) en
 (1) Different users and groups are convenient for multiple users.
 (2) Launch multiple servers for simultaneous use, and the client automatically explores the available servers in the LAN.
 (3) Continue transmission at breakpoint to increase the file transmission speed.
+ 
